@@ -54,7 +54,6 @@
 <body>
 
 <div id="app" style="display:none;">
-  <h1>PP Sheet Calculator</h1>
   <label>Length:</label>
   <input type="number" id="length" placeholder="Enter length">
 
