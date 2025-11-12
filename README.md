@@ -20,7 +20,7 @@
     font-weight: bold;
   }
   input, select {
-    width: 95%;
+    width: 100%;
     padding: 8px;
     margin-top: 5px;
     border-radius: 6px;
