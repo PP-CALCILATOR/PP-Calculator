@@ -2,7 +2,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PP Sheet Calculator</title>
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -21,7 +20,7 @@
     font-weight: bold;
   }
   input, select {
-    width: 100%;
+    width: 80%;
     padding: 8px;
     margin-top: 5px;
     border-radius: 6px;
